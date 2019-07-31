@@ -1,0 +1,65 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea
+.svn
+.settings
+.project
+*/.DS_Store
+.DS_Store
+local.properties
+# Log file
+*.log
+*/build/
+build
+
+# Generated files
+bin/
+gen/
+out/
+.idea/
+
+# Files for the ART/Dalvik VM
+*.dex
+
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.apk
+
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+
+# Gradle files
+.gradle/
+*/build/
+build
+
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Intellij
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/
